@@ -1,0 +1,4 @@
+*.pdb
+DupliFinder/bin/*
+DupliFinder/obj/*
+*.suo
